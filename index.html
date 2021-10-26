@@ -2,14 +2,39 @@
 <html>
 <head>
     <title>Hossein Entezari Zarch</title>
-    <link rel="stylesheet" href="style.css">
+    <!-- <link rel="stylesheet" href="style.css"> -->
+    <style>
+        ul.interests {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr); 
+            list-style-position: inside;
+            /* list-style-type: none; */
+        }
+
+        .columnImage {
+        float: right;
+        width: 30%;
+        padding: 5px;
+        }
+        .columnContent {
+            float: left;
+            width: 60%;
+            padding: 5px;
+        }
+        /* Clear floats after image containers */
+        .row::after {
+        content: "";
+        clear: both;
+        display: table;
+        }
+    </style>
 </head>
 <body style="width:50%; margin:auto">
 
 <div class="row">
   <div class="columnContent">
         <h1>Hossein Entezari Zarch</h1>
-        <p>I am a senior computer engineering B.Sc. student at the University of Tehran, Iran..</p>
+        <p>I am a senior computer engineering B.Sc. student at the University of Tehran, Iran.</p>
 
         <p> 
             <a href="files/CV_Hossein_Entezari_Zarch.pdf">CV</a> / 
