@@ -183,5 +183,4 @@ awards:
 ---
 
 ## About Me
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! I am <strong>Hossein Entezari Zarch</strong>, a 2nd-year CS Ph.D. student at the University of Southern California, working as a Graduate Research Assistant at the <a href=\"https://realai.usc.edu/\" target=\"_blank\">USC Meta Research Center </a>. Under the supervision of Professor Murali Annavaram in the Super Computing in Pocket (SCIP) lab, my research focuses on enhancing the efficiency and scalability of large-scale machine learning systems, particularly optimizing large language models and retrieval-augmented language models to improve their performance and applicability in production-scale scenarios.
