@@ -24,7 +24,7 @@ role: Graduate Research Assistant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University Of Southern California
+  - name: University of Southern California
     url: https://www.cs.usc.edu/
 
 # Social network links
