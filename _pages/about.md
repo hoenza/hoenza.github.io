@@ -1,17 +1,29 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hossein Entezari Zarch"
+excerpt: "Hossein Entezari Zarch"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Hello! I’m a 3rd-year Ph.D. student in Computer Science at the **University of Southern California**, advised by Prof. [Murali Annavaram](https://viterbi.usc.edu/directory/faculty/Annavaram/Murali) in the [SCIP Lab](https://scip-lab.usc.edu/) at the [USC Meta Research Center](https://realai.usc.edu/). I also earned my M.Sc. in Computer Science from USC and B.Sc. in Computer Engineering from the University of Tehran.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My research focuses on **efficient and scalable machine-learning systems**, particularly improving **large language model (LLM) serving and inference efficiency**. I work on topics such as **I/O-aware computation**, **KV-cache optimization**, **speculative decoding**, and **sparse attention mechanisms**, aiming to make LLMs more scalable, memory-efficient, and deployable in real-world environments. Here is a copy of my [CV](files/HosseinEntezariZarchCV.pdf)
 
-A data-driven personal website
+News
+======
+
+* **10/10/2025**: Our preprint [*DELTA: Dynamic Layer-Aware Token Attention for Efficient Long-Context Reasoning*](https://github.com/hoenza/DELTA) is now available on [GitHub](https://github.com/hoenza/DELTA).
+* **07/07/2025**: Our paper [*DEL: Context-Aware Dynamic Exit Layer for Efficient Self-Speculative Decoding*](https://arxiv.org/abs/2504.05598) has been accepted to [COLM](https://colmweb.org/) 2025.
+* **05/22/2025**: Our preprint [*MARché: Fast Masked Autoregressive Image Generation with Cache-Aware Attention*](https://arxiv.org/abs/2506.12035) is now available on [arXiv](https://arxiv.org/abs/2506.12035).
+* **05/15/2025**: Our paper [*KVPR: Efficient LLM Inference with I/O-Aware KV Cache Partial Recomputation*](https://arxiv.org/abs/2411.17089) has been accepted to [ACL](https://2025.aclweb.org/) Findings 2025.
+* **12/10/2024**: Our paper *Efficient LLM Inference with I/O-Aware Partial KV Cache Recomputation* has been accepted to the AAAI [SEAS](https://seasworkshop.github.io/aaai25/) Workshop 2025.
+* **09/20/2024**: Our paper [*CADC: Encoding User-Item Interactions for Compressing Recommendation Model Training Data*](https://arxiv.org/abs/2407.08108) has been accepted to the [LargeRecSys 2024 Workshop](https://largerecsys.github.io/) at ACM RecSys 2024.
+
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -53,4 +65,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
