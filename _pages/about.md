@@ -15,9 +15,9 @@ My research focuses on **efficient and scalable machine-learning systems**, part
 News
 ======
 
-* **10/10/2025**: Our preprint [*DELTA: Dynamic Layer-Aware Token Attention for Efficient Long-Context Reasoning*](https://github.com/hoenza/DELTA) is now available on [GitHub](https://github.com/hoenza/DELTA).
+* **10/10/2025**: Our preprint [*DELTA: Dynamic Layer-Aware Token Attention for Efficient Long-Context Reasoning*](https://arxiv.org/abs/2510.09883) is now available on [arXiv].
 * **07/07/2025**: Our paper [*DEL: Context-Aware Dynamic Exit Layer for Efficient Self-Speculative Decoding*](https://arxiv.org/abs/2504.05598) has been accepted to [COLM](https://colmweb.org/) 2025.
-* **05/22/2025**: Our preprint [*MARché: Fast Masked Autoregressive Image Generation with Cache-Aware Attention*](https://arxiv.org/abs/2506.12035) is now available on [arXiv](https://arxiv.org/abs/2506.12035).
+* **05/22/2025**: Our preprint [*MARché: Fast Masked Autoregressive Image Generation with Cache-Aware Attention*](https://arxiv.org/abs/2506.12035) is now available on [arXiv].
 * **05/15/2025**: Our paper [*KVPR: Efficient LLM Inference with I/O-Aware KV Cache Partial Recomputation*](https://arxiv.org/abs/2411.17089) has been accepted to [ACL](https://2025.aclweb.org/) Findings 2025.
 * **12/10/2024**: Our paper *Efficient LLM Inference with I/O-Aware Partial KV Cache Recomputation* has been accepted to the AAAI [SEAS](https://seasworkshop.github.io/aaai25/) Workshop 2025.
 * **09/20/2024**: Our paper [*CADC: Encoding User-Item Interactions for Compressing Recommendation Model Training Data*](https://arxiv.org/abs/2407.08108) has been accepted to the [LargeRecSys 2024 Workshop](https://largerecsys.github.io/) at ACM RecSys 2024.
