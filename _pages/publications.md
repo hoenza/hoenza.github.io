@@ -8,6 +8,8 @@ author_profile: true
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=xhVKvhIAAAAJ&hl=en).
 
+* Lei Gao, Chaoyi Jiang, **Hossein Entezari Zarch**, Daniel Wong, Murali “Annavaram DuetServe: Harmonizing Prefill and Decode for LLM Serving via Adaptive GPU Multiplexing.” (under review). [[Link](https://arxiv.org/abs/2511.04791)]
+
 * **Hossein Entezari Zarch**, Lei Gao, Chaoyi Jiang, Murali Annavaram “DELTA: Dynamic Layer-Aware Token Attention for Efficient Long-Context Reasoning.” (under review). [[Link](https://arxiv.org/abs/2504.05598)]
 
 * **Hossein Entezari Zarch**\*, Lei Gao\*, Chaoyi Jiang, Murali Annavaram “DEL: Context-Aware Dynamic Exit Layer for Efficient Self-Speculative Decoding.” Proceedings of the Conference on Language Modeling **(COLM) 2025**. [[Link](https://arxiv.org/abs/2504.05598)]
