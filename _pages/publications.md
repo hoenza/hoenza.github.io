@@ -8,7 +8,9 @@ author_profile: true
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=xhVKvhIAAAAJ&hl=en).
 
-* Lei Gao, Chaoyi Jiang, **Hossein Entezari Zarch**, Daniel Wong, Murali “Annavaram DuetServe: Harmonizing Prefill and Decode for LLM Serving via Adaptive GPU Multiplexing.” (under review). [[Link](https://arxiv.org/abs/2511.04791)]
+* Arun Ramachandran, Ramaswamy Govindarajan, Murali Annavaram, Prakash Raghavendra, **Hossein Entezari Zarch**, Lei Gao, Chaoyi Jiang “Striking the Right Balance between Compute and Copy: Improving LLM Inferencing Under Speculative Decoding.” (under review). [[Link](https://arxiv.org/abs/2511.12031)]
+
+* Lei Gao, Chaoyi Jiang, **Hossein Entezari Zarch**, Daniel Wong, Murali Annavaram “DuetServe: Harmonizing Prefill and Decode for LLM Serving via Adaptive GPU Multiplexing.” (under review). [[Link](https://arxiv.org/abs/2511.04791)]
 
 * **Hossein Entezari Zarch**, Lei Gao, Chaoyi Jiang, Murali Annavaram “DELTA: Dynamic Layer-Aware Token Attention for Efficient Long-Context Reasoning.” (under review). [[Link](https://arxiv.org/abs/2504.05598)]
 
