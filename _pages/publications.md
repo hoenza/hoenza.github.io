@@ -18,7 +18,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 * Chaoyi Jiang, Sungwoo Kim, Lei Gao, **Hossein Entezari Zarch**, Won Woo Ro, Murali Annavaram “MARché: Fast Masked Autoregressive Image Generation with Cache-Aware Attention.” (under review). [[Link](https://arxiv.org/abs/2506.12035)]
 
-* Arun Ramachandran, R. Govindarajan, Prakash Raghavendra, Murali Annavaram, **Hossein Entezari Zarch**, Chaoyi Jiang, Lei Gao “Balancing Memory and Compute (BMC) of Attention Blocks: An Effective Technique for Speculative LLM Inferencing.” (under review).
+* Arun Ramachandran, Ramaswamy Govindarajan, Murali Annavaram, Prakash Raghavendra, **Hossein Entezari Zarch**, Lei Gao, Chaoyi Jiang “Balancing Memory and Compute (BMC) of Attention Blocks: An Effective Technique for Speculative LLM Inferencing.” (under review). [[Link](https://arxiv.org/abs/2511.12031)]
 
 * **Hossein Entezari Zarch**, Abdulla Alshabanah, Chaoyi Jiang, Murali Annavaram “CADC: Encoding User-Item Interactions for Compressing Recommendation Model Training Data.” ACM **RecSys Workshop**, 2024. [[Link](https://arxiv.org/abs/2407.08108)]
 
