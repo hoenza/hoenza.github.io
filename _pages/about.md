@@ -15,6 +15,7 @@ My research focuses on **efficient and scalable machine-learning systems**, part
 News
 ======
 
+* **11/25/2025**: Our preprint [*Striking the Right Balance between Compute and Copy: Improving LLM Inferencing Under Speculative Decoding*](https://arxiv.org/abs/2511.12031) is now available on [arXiv].
 * **11/06/2025**: Our preprint [*DuetServe: Harmonizing Prefill and Decode for LLM Serving via Adaptive GPU Multiplexing*](https://arxiv.org/abs/2511.04791) is now available on [arXiv].
 * **10/10/2025**: Our preprint [*DELTA: Dynamic Layer-Aware Token Attention for Efficient Long-Context Reasoning*](https://arxiv.org/abs/2510.09883) is now available on [arXiv].
 * **07/07/2025**: Our paper [*DEL: Context-Aware Dynamic Exit Layer for Efficient Self-Speculative Decoding*](https://arxiv.org/abs/2504.05598) has been accepted to [COLM](https://colmweb.org/) 2025.
