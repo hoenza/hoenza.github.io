@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m a 3rd-year Ph.D. student in Computer Science at the **University of Southern California**, advised by Prof. [Murali Annavaram](https://viterbi.usc.edu/directory/faculty/Annavaram/Murali) in the [SCIP Lab](https://scip-lab.usc.edu/) at the [USC Meta Research Center](https://realai.usc.edu/). I also earned my M.Sc. in Computer Science from USC and B.Sc. in Computer Engineering from the University of Tehran.
+Hello! I’m a 4th-year Ph.D. Candidate in Computer Science at the **University of Southern California**, advised by Prof. [Murali Annavaram](https://viterbi.usc.edu/directory/faculty/Annavaram/Murali) in the [SCIP Lab](https://scip-lab.usc.edu/) at the [USC Meta Research Center](https://realai.usc.edu/). I also earned my M.Sc. in Computer Science from USC and B.Sc. in Computer Engineering from the University of Tehran.
 
 My research focuses on **efficient and scalable machine-learning systems**, particularly improving **large language model (LLM) serving and inference efficiency**. I work on topics such as **I/O-aware computation**, **KV-cache optimization**, **speculative decoding**, and **sparse attention mechanisms**, aiming to make LLMs more scalable, memory-efficient, and deployable in real-world environments. Here is a copy of my [CV](files/HosseinEntezariZarchCV.pdf)
 
